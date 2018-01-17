@@ -12,7 +12,7 @@ C - Component:
 - To compile with the Python GUI, read the "import" comment at the top of the file 
 
 
-Python - Component 
+Python - Component: 
 
 -  The program produces a graphical user interface utilizing the TkInter library in Python
 - The program refreshes and redraws the board after every valid move is inputted 
