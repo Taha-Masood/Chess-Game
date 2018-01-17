@@ -2,7 +2,7 @@
 
 A chess application which allows users to play the board game chess on a functional graphical user interface (GUI). The graphical user interface was produced in Python, whereas, back-end components to the game were produced in C. 
 
-C - Component:
+## C - Component:#
 
 - Utilizes boolean functions for the majority of tasks
 - A wide-set of functions determine if a certain move is valid
@@ -12,7 +12,7 @@ C - Component:
 - To compile with the Python GUI, read the "import" comment at the top of the file 
 
 
-Python - Component: 
+## Python - Component: 
 
 -  The program produces a graphical user interface utilizing the TkInter library in Python
 - The program refreshes and redraws the board after every valid move is inputted 
