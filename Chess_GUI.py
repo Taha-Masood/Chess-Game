@@ -1,5 +1,12 @@
 """
-    This program uses the tkinter class to create the GUI applications and visuals for the chess game. Utilizes the graphical representation to output the board, which is then displayed graphically through a tkinter window. Each piece is represented with a two letter code, where the first letter represents the colour and the second represents the piece type. When a move is made by the player the program will use the board representation to preform the move, and then a fucntion will interperet the new layout of the board representation. The program then reconfigures the board to display the new layout as deffined by the board representation. The board itself is created through tkinter and is made up of different coloured squares.
+    This program uses the tkinter class to create the GUI applications and visuals for the chess game. 
+    Utilizes the graphical representation to output the board, which is then displayed graphically through a TkInter window. 
+    Each piece is represented with a two letter code, where the first letter represents the colour and the second represents 
+    the piece type. When a move is made by the player the program will use the board representation to preform the move, 
+    and then a fucntion will interperet the new layout of the board representation. The program then reconfigures the 
+    board to display the new layout as deffined by the board representation. The board itself is created through 
+    TkInter and is made up of different coloured squares.
+    
 """
 
 import tkinter as tk
